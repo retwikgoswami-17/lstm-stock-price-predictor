@@ -32,8 +32,6 @@ h5py==3.12.1
 idna==3.8
 imageio-ffmpeg==0.6.0
 itsdangerous==2.2.0
-jax==0.4.31
-jaxlib==0.4.31
 Jinja2==3.1.4
 joblib==1.4.2
 jsonschema==4.24.0
